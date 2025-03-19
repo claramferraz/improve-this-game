@@ -18,8 +18,6 @@ class Luta(Vilao, Heroi, Personagem):
             heroi.ataque(vilao)
             
         else:
-            heroi.dialogar()
-            vilao.dialogar()
             ultimato = 'ULTIMATO'
             print(ultimato.center(50,'*'))
             heroi.ataque_final(vilao)
