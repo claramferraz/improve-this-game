@@ -62,7 +62,7 @@ O projeto contém os seguintes arquivos:
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd improve-this-game
+   cd melhorias-jogo
    ```
 3. Execute o jogo:
    ```sh
