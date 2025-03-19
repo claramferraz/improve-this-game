@@ -58,7 +58,7 @@ O projeto contém os seguintes arquivos:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/claramferraz/improve-this-game.git
+   git clone https://github.com/claramferraz/melhorias-jogo.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
