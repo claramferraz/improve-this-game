@@ -23,4 +23,4 @@ class Vilao(Personagem, Registro):
         self.upgrade_vida()
 
     def __str__(self):
-        return f'\nVilão: {self.nome}, Vida: {self.vida}, Habilidades: {self.habilidades}'
+        return f'Vilão: {self.nome}, Vida: {self.vida}, Habilidades: {self.habilidades}'
