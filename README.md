@@ -31,7 +31,7 @@ Nós alunos deviamos melhorar o código existente, que possuia as classes `Perso
 
 ✅ Todos os personagens (heróis e vilões) devem ter atributos como `nome`, `vida`, `ataque` e `defesa`.
 
-✅ A classe `Heroi` deve herdar de `Personagem` e possuir métodos próprios, como `salvar_refem()` ou `usar_pocao()`.
+✅ A classe `Heroi` deve herdar de `Personagem` e possuir métodos próprios (`ataque_final`).
 
 ✅ Criar um método `dialogar()` para interações entre personagens, tornando o jogo mais envolvente.
 
